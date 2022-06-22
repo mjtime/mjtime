@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="20pd">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="20px" height="30px">
   𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅! 𝑳𝒐𝒗𝒆𝒍𝒚 𝒕𝒐 𝒎𝒆𝒆𝒕 𝒚𝒐𝒖
-<img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="20pd"></h1>
+<img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="20px" height="30px"></h1>
 
 ---
 ### stack
